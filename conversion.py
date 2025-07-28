@@ -6,7 +6,8 @@ import pandas as pd
 # ------------configuration de la page -------------------
 st.set_page_config(
     page_title="Convertisseur de Devises",
-    page_icon="💸"
+    page_icon="💸",
+    layout="wide"
 )
 
 #api_key = 'ac5a593d3046a9e670eed9c5'
